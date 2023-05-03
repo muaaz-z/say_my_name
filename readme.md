@@ -1,3 +1,3 @@
-#demo
+#Demo
 
-this is demo rep
+this is demo repo.
